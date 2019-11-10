@@ -1,0 +1,27 @@
+body{
+  background-color: #badfdb
+}
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px;
+}
+img{
+  height: 300px;
+}
+.hoby:hover{
+  background: #f54291;
+}
+.abhi{
+  height: 250px;
+  border-radius: 80%;
+}
+h1{
+  color:#6915cf;
+}
+h3{
+  color: #58508d  ;
+}
+h2{
+  color:#df42d1;
+}
